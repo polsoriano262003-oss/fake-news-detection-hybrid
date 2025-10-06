@@ -7,7 +7,7 @@ This project compares BERT and LSTM architectures combined with feature engineer
 - Data preprocessing and tokenization
 - Model evaluation with accuracy and feature importance
 
-## 🧠 Tech Stack
+## Tech Stack
 - TensorFlow / Keras
 - Scikit-learn
 - BERT embeddings
